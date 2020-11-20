@@ -1,0 +1,16 @@
+
+Skapa en heltals variabel som ska lagra det slumpade talet
+Datorn slumpar ett tal mellan 1 och 100 och lagrar det i heltals variabeln
+Skapa en heltals variabel som ska lagra användarens gissning
+Användaren matar in ett tal, lagra i heltals variabeln 
+
+Skapa en heltals variabel som ska lagra antal gissningar
+
+Medan talen inte är lika stora
+	Användaren matar in ett tal, lagra i heltals variabeln 
+	Öka gissnings variabeln med 1
+
+	Om gissningen är större än det slumpade talet så ska det skrivas ut “Gissa lägre!”
+	Om gissningen är mindre än det slumpade talet så ska det skrivas ut “Gissa högre!”
+
+Skriv ut rätt svar och antal gissningar
