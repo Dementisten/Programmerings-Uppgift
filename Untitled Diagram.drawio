@@ -1,35 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T09:39:15.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="yKtqw4Ml_6iN19IIejuX" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T11:59:59.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="UAgCfRDxceP0oR3tzlpi" version="13.10.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="C7fpZe1aZcTTWDoONEir-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C7fpZe1aZcTTWDoONEir-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C7fpZe1aZcTTWDoONEir-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7fpZe1aZcTTWDoONEir-1" target="C7fpZe1aZcTTWDoONEir-2">
+        <mxCell id="C7fpZe1aZcTTWDoONEir-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7fpZe1aZcTTWDoONEir-1" target="C7fpZe1aZcTTWDoONEir-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C7fpZe1aZcTTWDoONEir-1" value="Start" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C7fpZe1aZcTTWDoONEir-1" value="Start" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C7fpZe1aZcTTWDoONEir-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7fpZe1aZcTTWDoONEir-2" target="C7fpZe1aZcTTWDoONEir-4">
+        <mxCell id="C7fpZe1aZcTTWDoONEir-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7fpZe1aZcTTWDoONEir-2" target="C7fpZe1aZcTTWDoONEir-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C7fpZe1aZcTTWDoONEir-2" value="Datorn slumpar ett tal mellan 1 och 100 och lagrar det i en variabel" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C7fpZe1aZcTTWDoONEir-2" value="Datorn slumpar ett tal mellan 1 och 100 och lagrar det i en variabel" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="325" y="130" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C7fpZe1aZcTTWDoONEir-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7fpZe1aZcTTWDoONEir-4" target="C7fpZe1aZcTTWDoONEir-8">
+        <mxCell id="C7fpZe1aZcTTWDoONEir-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7fpZe1aZcTTWDoONEir-4" target="C7fpZe1aZcTTWDoONEir-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C7fpZe1aZcTTWDoONEir-4" value="Användaren matar in en gissning och det lagras i en variabel" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="C7fpZe1aZcTTWDoONEir-4" value="Användaren matar in en gissning och det lagras i en variabel" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="315" y="220" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C7fpZe1aZcTTWDoONEir-8" value="Medans dem 2 variablarna inte är lika stora så ska detta repeteras" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UorWOQ06RgRVYfktjZGL-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7fpZe1aZcTTWDoONEir-8" target="UorWOQ06RgRVYfktjZGL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7fpZe1aZcTTWDoONEir-8" target="UorWOQ06RgRVYfktjZGL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7fpZe1aZcTTWDoONEir-8" value="Medans dem 2 variablarna inte är lika stora så ska detta repeteras" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="320" width="225" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="C7fpZe1aZcTTWDoONEir-17" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="325" width="210" height="60" as="geometry" />
+        <mxCell id="UorWOQ06RgRVYfktjZGL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7fpZe1aZcTTWDoONEir-17" target="UorWOQ06RgRVYfktjZGL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7fpZe1aZcTTWDoONEir-17" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="450" y="325" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-0" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="420" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UorWOQ06RgRVYfktjZGL-0" target="UorWOQ06RgRVYfktjZGL-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="293" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-1" value="Användaren matar in ett tal och talet lagras i en variabel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="217.5" y="440" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7fpZe1aZcTTWDoONEir-4" target="C7fpZe1aZcTTWDoONEir-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="340" as="sourcePoint" />
+            <mxPoint x="430" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-7" value="Om talet är samma som det slumpade så görs detta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="345" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-8" value="Skriv ut rätt svar och antal gissningar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="467.5" y="520" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UorWOQ06RgRVYfktjZGL-11" target="UorWOQ06RgRVYfktjZGL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-11" value="Variabeln som håller koll på antal gissningar ökar med 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="184.37" y="520" width="211.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UorWOQ06RgRVYfktjZGL-13" target="UorWOQ06RgRVYfktjZGL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-13" value="&lt;span id=&quot;docs-internal-guid-702ee39d-7fff-81c9-dbe3-05993b5a9d8b&quot;&gt;&lt;span style=&quot;background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Om gissningen är större än det slumpade talet så ska det skrivas ut “Gissa lägre!”&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="169.99" y="630" width="240.01" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-15" value="&lt;span id=&quot;docs-internal-guid-66e83b4b-7fff-19e0-1803-322613603925&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; vertical-align: baseline&quot;&gt;Om gissningen är mindre än det slumpade talet så ska det skrivas ut “Gissa högre!”&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="163.74" y="730" width="252.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
