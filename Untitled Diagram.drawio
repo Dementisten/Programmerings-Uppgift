@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T11:59:59.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="UAgCfRDxceP0oR3tzlpi" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T12:00:51.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="kTud23KfIGk87BeCtk9M" version="13.10.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,9 +26,6 @@
           <mxGeometry x="315" y="220" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UorWOQ06RgRVYfktjZGL-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7fpZe1aZcTTWDoONEir-8" target="UorWOQ06RgRVYfktjZGL-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UorWOQ06RgRVYfktjZGL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7fpZe1aZcTTWDoONEir-8" target="UorWOQ06RgRVYfktjZGL-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C7fpZe1aZcTTWDoONEir-8" value="Medans dem 2 variablarna inte är lika stora så ska detta repeteras" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -80,6 +77,15 @@
         </mxCell>
         <mxCell id="UorWOQ06RgRVYfktjZGL-15" value="&lt;span id=&quot;docs-internal-guid-66e83b4b-7fff-19e0-1803-322613603925&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; vertical-align: baseline&quot;&gt;Om gissningen är mindre än det slumpade talet så ska det skrivas ut “Gissa högre!”&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="163.74" y="730" width="252.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UorWOQ06RgRVYfktjZGL-17" target="UorWOQ06RgRVYfktjZGL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-17" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="810" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UorWOQ06RgRVYfktjZGL-18" value="Om talet är samma som det slumpade så görs detta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="217.5" y="830" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
