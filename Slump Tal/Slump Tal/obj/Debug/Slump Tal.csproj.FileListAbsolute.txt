@@ -1,0 +1,7 @@
+C:\Users\ville\source\repos\Slump Tal\Slump Tal\bin\Debug\Slump Tal.exe.config
+C:\Users\ville\source\repos\Slump Tal\Slump Tal\bin\Debug\Slump Tal.exe
+C:\Users\ville\source\repos\Slump Tal\Slump Tal\bin\Debug\Slump Tal.pdb
+C:\Users\ville\source\repos\Slump Tal\Slump Tal\obj\Debug\Slump Tal.csprojAssemblyReference.cache
+C:\Users\ville\source\repos\Slump Tal\Slump Tal\obj\Debug\Slump Tal.csproj.CoreCompileInputs.cache
+C:\Users\ville\source\repos\Slump Tal\Slump Tal\obj\Debug\Slump Tal.exe
+C:\Users\ville\source\repos\Slump Tal\Slump Tal\obj\Debug\Slump Tal.pdb
