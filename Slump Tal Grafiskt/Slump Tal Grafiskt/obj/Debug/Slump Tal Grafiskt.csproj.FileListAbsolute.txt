@@ -1,0 +1,10 @@
+C:\Users\ville\source\repos\Slump Tal Grafiskt\Slump Tal Grafiskt\bin\Debug\Slump Tal Grafiskt.exe.config
+C:\Users\ville\source\repos\Slump Tal Grafiskt\Slump Tal Grafiskt\bin\Debug\Slump Tal Grafiskt.exe
+C:\Users\ville\source\repos\Slump Tal Grafiskt\Slump Tal Grafiskt\bin\Debug\Slump Tal Grafiskt.pdb
+C:\Users\ville\source\repos\Slump Tal Grafiskt\Slump Tal Grafiskt\obj\Debug\Slump Tal Grafiskt.csprojAssemblyReference.cache
+C:\Users\ville\source\repos\Slump Tal Grafiskt\Slump Tal Grafiskt\obj\Debug\Slump_Tal_Grafiskt.Properties.Resources.resources
+C:\Users\ville\source\repos\Slump Tal Grafiskt\Slump Tal Grafiskt\obj\Debug\Slump Tal Grafiskt.csproj.GenerateResource.cache
+C:\Users\ville\source\repos\Slump Tal Grafiskt\Slump Tal Grafiskt\obj\Debug\Slump Tal Grafiskt.csproj.CoreCompileInputs.cache
+C:\Users\ville\source\repos\Slump Tal Grafiskt\Slump Tal Grafiskt\obj\Debug\Slump Tal Grafiskt.exe
+C:\Users\ville\source\repos\Slump Tal Grafiskt\Slump Tal Grafiskt\obj\Debug\Slump Tal Grafiskt.pdb
+C:\Users\ville\source\repos\Slump Tal Grafiskt\Slump Tal Grafiskt\obj\Debug\Slump_Tal_Grafiskt.Form1.resources
